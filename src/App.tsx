@@ -5,7 +5,7 @@ function App() {
     <div className="page-wrapper">
       <nav className="navbar">
         <div className="navbar-content">
-          <h1>WeHelp第6屆申請網頁 Alan Wang,王靖瑜</h1>
+          <h1>WeHelp第6屆申請網頁 Alan Wang1 ,王靖瑜</h1>
           
           <div className="questions-wrapper">
             <a href="#intro" className="question-item">個人簡介和申請動機。</a>
